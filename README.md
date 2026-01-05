@@ -1,7 +1,28 @@
 # 🧩 Room Management Interface
 
 A modular, tween-integrated UI framework for Roblox enabling players to create, customize, and manage game lobbies via a sleek step-by-step wizard.
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Tzohar/room-management-interface/blob/main/media/Roblox1.gif?raw=true" width="100%" />
+      <br>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Tzohar/room-management-interface/blob/main/media/Roblox2.gif?raw=true" width="100%" />
+      <br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Tzohar/room-management-interface/blob/main/media/Roblox3.gif?raw=true" width="100%" />
+      <br>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Tzohar/room-management-interface/blob/main/media/Roblox4.gif?raw=true" width="100%" />
+      <br>
+    </td>
+  </tr>
+</table>
 
 ## ✨ Key Features
 
