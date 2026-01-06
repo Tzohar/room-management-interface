@@ -1,6 +1,6 @@
 # 🧩 Room Management Interface
 
-A modular, tween-integrated UI framework for Roblox enabling players to create, customize, and manage game lobbies via a sleek step-by-step wizard.
+A modular backend & frontend UI framework for Roblox enabling players to create, customize, and manage game lobbies efficiently via a sleek step-by-step wizard.
 <table>
   <tr>
     <td align="center">
