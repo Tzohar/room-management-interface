@@ -1,4 +1,4 @@
-# 🧩 Room Management Interface
+# Room Management Interface
 
 A modular backend & frontend UI framework for Roblox enabling players to create, customize, and manage game lobbies via a sleek step-by-step wizard. Optimal for server management.
 <table>
@@ -24,7 +24,7 @@ A modular backend & frontend UI framework for Roblox enabling players to create,
   </tr>
 </table>
 
-## ✨ Key Features
+## Key Features
 
 * **Wizard Design Pattern:** Splits complex data entry into digestible steps (Details → Genres → Settings → Maps).
 * **Reactive Animations:** Uses a custom `TweenService` implementation for smooth hover effects, window slides, and page transitions.
@@ -32,7 +32,7 @@ A modular backend & frontend UI framework for Roblox enabling players to create,
 * **State Management:** Temporarily caches user input in a local state table, only committing to the server upon final validation.
 * **Dynamic Scrolling:** Custom-scripted scroll interactions for selecting maps and genres.
 
-## 🏗️ Architecture
+## Architecture
 
 The system is built on a strictly modular architecture to separate logic (controllers) from visuals (view).
 
